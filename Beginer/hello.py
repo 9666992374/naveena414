@@ -1,3 +1,3 @@
 N=int(input())
-str=('hello')
+str=('Hello')
 print(str*N)
